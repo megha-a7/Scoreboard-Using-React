@@ -1,3 +1,5 @@
+React is a JavaScript library that enables you to create the appearance of websites. Furthermore, by using the mobile version of React, React Native, you can create smartphone apps for both iOS and Android.
+
 A module encapsulates a set of related functions and components semantically related with its own functional responsibility. They have all the assets they need to work on their own and can be tested independently of the rest of the application.
 
 import React, { Component } from 'react'; -  here we import React and also import Component from the React package. This is called a named import and with its named import statement you can create a class without extending from React Component.
